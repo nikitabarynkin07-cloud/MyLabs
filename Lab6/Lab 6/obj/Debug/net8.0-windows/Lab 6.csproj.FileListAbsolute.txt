@@ -1,0 +1,21 @@
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\bin\Debug\net8.0-windows\Lab 6.exe
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\bin\Debug\net8.0-windows\Lab 6.deps.json
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\bin\Debug\net8.0-windows\Lab 6.runtimeconfig.json
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\bin\Debug\net8.0-windows\Lab 6.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\bin\Debug\net8.0-windows\Lab 6.pdb
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.ArrayOperationsForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.AuthorForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.GuessGameForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.MainForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.SaperGameForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.csproj.GenerateResource.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.AssemblyInfoInputs.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.AssemblyInfo.cs
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.csproj.CoreCompileInputs.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\refint\Lab 6.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.pdb
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab 6.genruntimeconfig.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\ref\Lab 6.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab 6\Lab 6\obj\Debug\net8.0-windows\Lab_6.Properties.Resources.resources
