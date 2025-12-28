@@ -1,0 +1,21 @@
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.ArrayWorkForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.AuthorInfoForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.GuessGameForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.MainForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.SnakeGameForm.resources
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.csproj.GenerateResource.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.AssemblyInfoInputs.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.AssemblyInfo.cs
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.csproj.CoreCompileInputs.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\bin\Debug\net8.0-windows\Lab_6 Levina.exe
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\bin\Debug\net8.0-windows\Lab_6 Levina.deps.json
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\bin\Debug\net8.0-windows\Lab_6 Levina.runtimeconfig.json
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\bin\Debug\net8.0-windows\Lab_6 Levina.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\bin\Debug\net8.0-windows\Lab_6 Levina.pdb
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\refint\Lab_6 Levina.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.pdb
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6 Levina.genruntimeconfig.cache
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\ref\Lab_6 Levina.dll
+D:\Приложения\Visual Studio\MyProjects\Основы программирования\Lab_6 Levina\Lab_6 Levina\obj\Debug\net8.0-windows\Lab_6_Levina.Properties.Resources.resources
